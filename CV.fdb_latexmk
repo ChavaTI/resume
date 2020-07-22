@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex CV"] 1586217085 "CV.aux" "CV.bbl" "CV" 1586217086
+["bibtex CV"] 1586276747 "CV.aux" "CV.bbl" "CV" 1586276748
   "/usr/share/texmf-dist/bibtex/bst/base/plain.bst" 1572595918 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "CV.aux" 1586217085 1199 13d32948a026c759d192c88f64a71a90 "pdflatex"
+  "CV.aux" 1586276748 1199 13d32948a026c759d192c88f64a71a90 "pdflatex"
   "publications.bib" 0 -1 0 ""
   (generated)
   "CV.bbl"
   "CV.blg"
-["pdflatex"] 1586217085 "/home/coding-artisan/Projects/own/CV/CV.tex" "/home/coding-artisan/Projects/own/CV/CV.pdf" "CV" 1586217086
-  "/dev/null" 1586188017 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "/home/coding-artisan/Projects/own/CV/CV.aux" 1586217085 1199 13d32948a026c759d192c88f64a71a90 ""
-  "/home/coding-artisan/Projects/own/CV/CV.tex" 1586217084 3211 681490167cb5c56280271a38493e0c9a ""
+["pdflatex"] 1586276747 "/home/coding-artisan/Projects/own/CV/CV.tex" "/home/coding-artisan/Projects/own/CV/CV.pdf" "CV" 1586276748
+  "/dev/null" 1586275322 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "/home/coding-artisan/Projects/own/CV/CV.aux" 1586276748 1199 13d32948a026c759d192c88f64a71a90 ""
+  "/home/coding-artisan/Projects/own/CV/CV.tex" 1586276746 3210 e0d1a116e2cd74b9290e344cc41ff3e4 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1572568373 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1572595918 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1572595918 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -113,7 +113,7 @@
   "/usr/share/texmf/tex/latex/moderncv/moderncv.cls" 1586046724 31469 b6ae73a2b8b0d4a39cb59330c636d157 ""
   "/usr/share/texmf/tex/latex/moderncv/moderncvbodyi.sty" 1586046724 7263 b0eec674e8a364780faf2f7d5efa2dbe ""
   "/usr/share/texmf/tex/latex/moderncv/moderncvcollection.sty" 1586046724 3390 d797a6d60ef49f5acd2d573a9a4ba418 ""
-  "/usr/share/texmf/tex/latex/moderncv/moderncvcolorgreen.sty" 1586046724 1008 2ca67d48aec4caaac915e91883a05d78 ""
+  "/usr/share/texmf/tex/latex/moderncv/moderncvcolorblue.sty" 1586046724 1009 6fe12a591a5df448729fbe772069c038 ""
   "/usr/share/texmf/tex/latex/moderncv/moderncvcompatibility.sty" 1586046724 4432 936564c71edca576409f46e45b55b318 ""
   "/usr/share/texmf/tex/latex/moderncv/moderncvfooti.sty" 1586046724 6855 689eca4965d5c0dacac7c6023cb29e64 ""
   "/usr/share/texmf/tex/latex/moderncv/moderncvheadii.sty" 1586046724 9582 7e2bda372f3de95c55faf00c42f79939 ""
@@ -122,14 +122,14 @@
   "/usr/share/texmf/tex/latex/moderncv/tweaklist.sty" 1586046724 1965 0b94f78ada3529c34b6314f7b983075d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1586047195 4567315 5bff4ef6a80dad29ef009f9621a3294a ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1586045122 8044938 411c887e8229e6e9dc8649a078277203 ""
-  "CV.aux" 1586217085 1199 13d32948a026c759d192c88f64a71a90 "pdflatex"
+  "CV.aux" 1586276748 1199 13d32948a026c759d192c88f64a71a90 "pdflatex"
   "CV.bbl" 0 -1 0 "bibtex CV"
-  "CV.out" 1586217085 554 51777c73e5029e2762a01271ada95ffa "pdflatex"
-  "CV.tex" 1586217084 3211 681490167cb5c56280271a38493e0c9a ""
+  "CV.out" 1586276748 554 51777c73e5029e2762a01271ada95ffa "pdflatex"
+  "CV.tex" 1586276746 3210 e0d1a116e2cd74b9290e344cc41ff3e4 ""
   (generated)
   "CV.log"
-  "/home/coding-artisan/Projects/own/CV/CV.pdf"
   "CV.out"
-  "/home/coding-artisan/Projects/own/CV/CV.log"
   "CV.pdf"
   "CV.aux"
+  "/home/coding-artisan/Projects/own/CV/CV.log"
+  "/home/coding-artisan/Projects/own/CV/CV.pdf"
