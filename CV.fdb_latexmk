@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex CV"] 1600891250 "CV.aux" "CV.bbl" "CV" 1600891252
+["bibtex CV"] 1600896145 "CV.aux" "CV.bbl" "CV" 1600896146
   "/usr/share/texmf-dist/bibtex/bst/base/plain.bst" 1591545468 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "CV.aux" 1600891251 925 ce64a04c41f795e70094f56402148d6c "pdflatex"
+  "CV.aux" 1600896145 1013 aaba9f2b4c983804dc274022630f749c "pdflatex"
   "publications.bib" 0 -1 0 ""
   (generated)
-  "CV.blg"
   "CV.bbl"
-["pdflatex"] 1600891250 "/home/coding-artisan/Projects/own/CV/CV.tex" "/home/coding-artisan/Projects/own/CV/CV.pdf" "CV" 1600891252
-  "/home/coding-artisan/Projects/own/CV/CV.aux" 1600891251 925 ce64a04c41f795e70094f56402148d6c ""
-  "/home/coding-artisan/Projects/own/CV/CV.tex" 1600891248 2600 867be648f1df45e466d70599565731b0 ""
+  "CV.blg"
+["pdflatex"] 1600896145 "/home/coding-artisan/Projects/own/CV/CV.tex" "/home/coding-artisan/Projects/own/CV/CV.pdf" "CV" 1600896146
+  "/home/coding-artisan/Projects/own/CV/CV.aux" 1600896145 1013 aaba9f2b4c983804dc274022630f749c ""
+  "/home/coding-artisan/Projects/own/CV/CV.tex" 1600896144 3188 cf3ae8ab37f1da83787668cca6aa53bb ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1591522338 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1591545468 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1591545468 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
@@ -129,14 +129,14 @@
   "/usr/share/texmf/tex/latex/moderncv/tweaklist.sty" 1586046724 1965 0b94f78ada3529c34b6314f7b983075d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1598891929 4722222 4b413e68156ce7e2e152348ba071af0a ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1598891908 2514049 ee96c7b19de3d53e14b7a2640b26329e ""
-  "CV.aux" 1600891251 925 ce64a04c41f795e70094f56402148d6c "pdflatex"
+  "CV.aux" 1600896145 1013 aaba9f2b4c983804dc274022630f749c "pdflatex"
   "CV.bbl" 0 -1 0 "bibtex CV"
-  "CV.out" 1600891251 300 6fd659bf9dc1c589c82f67db62935347 "pdflatex"
-  "CV.tex" 1600891248 2600 867be648f1df45e466d70599565731b0 ""
+  "CV.out" 1600896145 368 866a9d746274139c0804ef4122296d8b "pdflatex"
+  "CV.tex" 1600896144 3188 cf3ae8ab37f1da83787668cca6aa53bb ""
   (generated)
+  "/home/coding-artisan/Projects/own/CV/CV.log"
   "CV.pdf"
-  "CV.aux"
+  "/home/coding-artisan/Projects/own/CV/CV.pdf"
   "CV.log"
   "CV.out"
-  "/home/coding-artisan/Projects/own/CV/CV.log"
-  "/home/coding-artisan/Projects/own/CV/CV.pdf"
+  "CV.aux"

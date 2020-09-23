@@ -196,7 +196,6 @@ INPUT /usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmss12.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmsso12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
@@ -209,12 +208,13 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ts1-lmro10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /home/coding-artisan/Projects/own/CV/CV.aux
 INPUT /home/coding-artisan/Projects/own/CV/CV.out
 INPUT /home/coding-artisan/Projects/own/CV/CV.out
+INPUT /usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
-INPUT /usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/share/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb
